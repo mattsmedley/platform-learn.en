@@ -178,7 +178,7 @@ A new browser tab will open. You'll see this.
 
 ![iFrame](./images/iframe-01a.png)
 
-In the top menu, click **Settings**, then click **Customizations**.
+In the top menu, click **Settings**, then click **Security**.
 
 ![iFrame](./images/iframe-security.png)
 
